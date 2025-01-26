@@ -58324,7 +58324,7 @@ A.AV.prototype={
 R(a){var s=null
 return new A.rl(new A.ux(s),A.a7V(s,s,new A.f(4280163870),A.ZB(A.aN().$0(),A.aN().$0(),A.aN().$0(),s,s,s,s,s,s,s,s,s,s,s,s),s),!1,s)}}
 A.ux.prototype={
-al(){return new A.JQ(A.a(["about.html","projects.html","skills.html","contact.html","settings"],t.s))}}
+al(){return new A.JQ(A.a(["index.html","projects.html","skills.html","contact.html","settings"],t.s))}}
 A.JQ.prototype={
 R(a){var s,r=this,q=null,p=4281150765,o=4280163870,n=4278221516,m=t.p,l=A.a([A.bo(q,A.ci(A.a([A.b7(q,10,q),r.m6(B.yU,0),r.m6(B.yV,1),r.m6(B.yW,2),r.m6(B.yQ,3),new A.lA(q),r.m6(B.yX,4)],m),B.a2,B.r),new A.f(4281545523),q,q,q,q,q,50)],m),k=A.aq("EXPLORER",q,A.ew(q,q,B.aQ,q,q,q,q,q,q,q,q,11,q,q,B.cv,q,q,!0,q,q,q,q,q,q,q,q),q)
 l.push(A.bo(q,A.ci(A.a([new A.cG(new A.aj(8,8,8,8),k,q),A.zx(new A.Aw(new A.Yp(new A.a4h(r),5,!0,!0,!0,q),q,B.aN,!1,q,q,B.vn,!1,q,5,B.T,B.Ex,q,B.aB,B.at,q),1)],m),B.W,B.r),new A.f(4280624422),q,q,q,q,q,200))
